@@ -1,7 +1,13 @@
 #参考
 ##Flask
 https://dormousehole.readthedocs.io/en/latest/
+
 ##
+
+##flask-login
+https://flask-login.readthedocs.io/en/latest/
+
+(汉化文档)http://www.pythondoc.com/flask-login/
 
 #*其他事项
 ##更新包管理
